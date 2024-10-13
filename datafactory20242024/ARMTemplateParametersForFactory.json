@@ -1,0 +1,18 @@
+{
+	"$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
+	"contentVersion": "1.0.0.0",
+	"parameters": {
+		"factoryName": {
+			"value": "datafactory20242024"
+		},
+		"datalake20242023_accountKey": {
+			"value": ""
+		},
+		"dataworkspace20242024_connectionString": {
+			"value": ""
+		},
+		"datalake20242023_properties_typeProperties_url": {
+			"value": "https://datalake20242023.dfs.core.windows.net/"
+		}
+	}
+}
